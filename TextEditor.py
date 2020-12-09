@@ -233,7 +233,6 @@ while choice != '0':
                     text[i] = line.rjust(max_len(text))
                     print(text[i])
                   
-    # Выравнивание по ширине
     elif choice == '3':
         print('Выравнивание по ширине:\n')
 
